@@ -11,6 +11,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/Camera.msg"
   "msg/Control.msg"
   "msg/Display.msg"
+  "msg/Encoder.msg"
   DEPENDENCIES builtin_interfaces geometry_msgs std_msgs
  )
 
