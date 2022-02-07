@@ -1,1 +1,2 @@
-int64 value
+int64 left
+int64 right
