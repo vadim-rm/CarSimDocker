@@ -1,4 +1,4 @@
-# Docker image for [NagibSim](https://github.com/vadim-rm/NagibCarSimulator) - NTO Version
+# Docker image for [NagibSim](https://github.com/vadim-rm/NagibCarSimulator)
 
 This image includes `setup.sh` file, that automatically creates the environment for the [NTO_ATC](https://github.com/proton-bit/NTO_ATC) repository
 
