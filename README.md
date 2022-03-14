@@ -1,6 +1,6 @@
 # Docker image for [NagibSim](https://github.com/vadim-rm/NagibCarSimulator)
 
-This image includes `setup.sh` file, that automatically creates the environment for the [NTO_ATC](https://github.com/proton-bit/NTO_ATC) repository
+This image includes `setup.sh` file, that automatically creates the environment for the [SelfDrivingCar](https://github.com/proton-bit/SelfDrivingCar) repository
 
 Run the following code to start the code:
 ```bash
